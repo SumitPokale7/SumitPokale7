@@ -2,9 +2,9 @@
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--zfv9hdqe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g7mmpq2rwvdpyq0l78cp.gif"
 
-- 🌱 I’m currently learning **Jenkins, Other DevOps tools.**
+- 🌱 I’m currently learning **Kubernetes, Other DevOps tools.**
 
-- 💬 Ask me about **Docker, Linux, Jenkins, Kubernetes, AWS, Git, Terraform**
+- 🤓 I'm always trying to learn new concepts like Security, Kubernetes, Azure, Gitlabs, and Pulumi.
 
 - 📫 How to reach me **pokalesumit5@gmail.com**
 
