@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumit Pokale</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+<h3 align="center">A DevOps/Cloud Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2RyYnBvMm83ZW1qMnVqa3JkMW50angxMWQ5Z3prMXBnYm1sMThzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6T795naZ1s8GA/giphy.gif"
 
 -  🌱 I’m currently learning **Kubernetes, Other DevOps tools.**
