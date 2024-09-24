@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sumit Pokale</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://res.cloudinary.com/practicaldev/image/fetch/s--zfv9hdqe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g7mmpq2rwvdpyq0l78cp.gif](https://media.giphy.com/media/6T795naZ1s8GA/giphy.gif?cid=ecf05e47hzcoqah0u0hodbfhpqr8hruxxwk0je1e63jw99ov&ep=v1_gifs_search&rid=giphy.gif&ct=g)"
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2RyYnBvMm83ZW1qMnVqa3JkMW50angxMWQ5Z3prMXBnYm1sMThzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6T795naZ1s8GA/giphy.gif"
 
 -  🌱 I’m currently learning **Kubernetes, Other DevOps tools.**
 
